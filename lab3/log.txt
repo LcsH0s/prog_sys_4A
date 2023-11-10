@@ -1,0 +1,6 @@
+<new_user>
+  <LDC_date>2023-09-12 14:04:48</LDC_date>
+  <LDC_name>saml</LDC_name>
+  <LDC_uid>1000</LDC_uid>
+  <LDC_password>8wBW5VB7Hf</LDC_password>
+</new_user>

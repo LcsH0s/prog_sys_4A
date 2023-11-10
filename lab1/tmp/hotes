@@ -1,0 +1,13 @@
+# Standard host addresses
+127.0.0.1  localhost
+::1        localhost ip6-localhost ip6-loopback
+ff02::1    ip6-allnodes
+ff02::2    ip6-allrouters
+# This host address
+127.0.1.1  vantapad
+
+
+94.237.49.11 academy.htb
+94.237.49.11 test.academy.htb
+94.237.49.11 archive.academy.htb
+94.237.49.11 faculty.academy.htb

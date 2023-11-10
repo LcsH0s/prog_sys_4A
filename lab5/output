@@ -1,0 +1,6 @@
+gcc  -Wall exo2.c -o exo2.o -lpthread -Wall
+./exo2.o
+[DEBUG] Initializing FIFO queue
+[DEBUG] Creating producer threads
+[DEBUG] Creating consumer threads
+[DEBUG] Joining producer threads
