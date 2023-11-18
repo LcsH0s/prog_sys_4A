@@ -11,4 +11,4 @@ for f in csv_files:
     plt.xlabel('NumThreads')
     plt.ylabel('Execution Time')
     plt.grid(True)
-    plt.savefig(f'drawing_{f.split(".")[0].split("_")[1]}.png')
+    plt.savefig(f'drawing_{f.split(".")[0].split("_")[1]}.png', dpi=300)
